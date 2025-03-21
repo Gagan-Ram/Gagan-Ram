@@ -47,16 +47,16 @@
 
 <div align="left">
   <!-- Programming Languages -->
-  <img src="https://skillicons.dev/icons?i=cpp,js,ts,py,django" height="20" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=cpp,js,ts,py,django" height="30" alt="Programming Languages" />
   
   <!-- Frontend Development -->
-  <img src="https://skillicons.dev/icons?i=nextjs,react,bootstrap,tailwind,materialui,figma" height="20" alt="Frontend Development" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,bootstrap,tailwind,materialui,figma" height="30" alt="Frontend Development" />
   
   <!-- Backend Development & Database -->
-  <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,postman,kafka,mongodb,postgresql,sql" height="20" alt="Backend Development & Databases" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,postman,kafka,mongodb,postgresql,sql" height="30" alt="Backend Development & Databases" />
 
   <!-- DevOps & Cloud -->
-  <img src="https://skillicons.dev/icons?i=aws,jenkins,docker,kubernetes,ansible,terraform,prometheus,grafana" height="20" alt="DevOps & Cloud" />
+  <img src="https://skillicons.dev/icons?i=aws,jenkins,docker,kubernetes,ansible,terraform,prometheus,grafana" height="30" alt="DevOps & Cloud" />
   
 </div>
 
