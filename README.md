@@ -45,20 +45,29 @@
 
 ## 🛠️ Technologies I Use
 
+<!-- Programming Languages -->
 <div align="left">
-  <!-- Programming Languages -->
   <img src="https://skillicons.dev/icons?i=cpp,js,ts,py,django" height="30" alt="Programming Languages" />
-  
-  <!-- Frontend Development -->
-  <img src="https://skillicons.dev/icons?i=nextjs,react,bootstrap,tailwind,materialui,figma" height="30" alt="Frontend Development" />
-  
-  <!-- Backend Development & Database -->
-  <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,postman,kafka,mongodb,postgresql,sql" height="30" alt="Backend Development & Databases" />
+</div>  
+<br>  
 
-  <!-- DevOps & Cloud -->
+<!-- Frontend Development -->
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,bootstrap,tailwind,materialui,figma" height="30" alt="Frontend Development" />
+</div>  
+<br>  
+
+<!-- Backend Development & Databases -->
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,postman,kafka,mongodb,postgresql,sql" height="30" alt="Backend Development & Databases" />
+</div>  
+<br>  
+
+<!-- DevOps & Cloud -->
+<div align="left">
   <img src="https://skillicons.dev/icons?i=aws,jenkins,docker,kubernetes,ansible,terraform,prometheus,grafana" height="30" alt="DevOps & Cloud" />
-  
 </div>
+
 
 ###
 
